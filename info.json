@@ -1,0 +1,16 @@
+{
+    "tab": [
+        {
+            "TITLE": "siege de saida",
+            "HEADING": "saida title ",
+            "image": "saida.jpg",
+            "content": "ville d'Algérie et chef-lieu dela wilaya de Saïda"
+        },
+        {
+            "TITLE": "siege de alger",
+            "HEADING": "alger title",
+            "image": "alger.jpg",
+            "content": "ville d'alger "
+        }
+    ]
+}
